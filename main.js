@@ -1,5 +1,5 @@
 function preload(){
-  paddle_touch = loadSound("ball_touch_paddle.wav");
+  paddle_touch = loadSound("ball_touch_paddel.wav");
 	missed_paddle = loadSound("missed.wav");
 }
 
